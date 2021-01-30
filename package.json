@@ -1,6 +1,6 @@
 {
   "name": "commajs-lists",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Commajs - The WYSIWYG framework -  lists plugin",
   "main": "dist/commajs-lists.min.js",
   "repository": {
